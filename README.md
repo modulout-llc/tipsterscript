@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://tipsterscript.com" target="_blank">
-    <img src="https://www.tipsterscript.com/wp-content/uploads/2025/01/tipsterscript-logo.png" width="200" alt="TipsterScript Logo">
+    <img src="https://tipsterscript.com/wp-content/uploads/2023/05/ts_logo_black_site.jpg" width="200" alt="TipsterScript Logo">
   </a>
 </p>
 
