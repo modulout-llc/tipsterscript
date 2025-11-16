@@ -1,4 +1,10 @@
 <h1 align="center">TipsterScript – WordPress Plugin for Tipsters & Sports Betting Sites</h1>
+<p align="center">
+  <img src="https://img.shields.io/badge/status-active-brightgreen?style=flat-square" />
+  <img src="https://img.shields.io/badge/platform-WordPress-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/language-PHP-777BB4?style=flat-square&logo=php" />
+  <img src="https://img.shields.io/badge/license-commercial-orange?style=flat-square" />
+</p>
 
 <p align="center">
   Create your own tipster website, publish predictions, track results and sell subscriptions – all inside WordPress.
